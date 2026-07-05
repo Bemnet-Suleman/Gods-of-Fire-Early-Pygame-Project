@@ -1,0 +1,43 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# Virtual environments
+env/
+venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+*.swp
+*.swo
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Ignore files that start with '#' (escaped because # starts a comment)
+\#*
+mim.py
+
+# Test or backup files
+*~
+*.bak
+
+# PyInstaller build artifacts
+*.spec
+
+# Compiled extensions
+*.so
+*.dll
