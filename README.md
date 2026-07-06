@@ -49,6 +49,9 @@ pyinstaller --onefile Fire_Fighting.py
 - This is the final version. No further changes are planned.
 - If you want to re-open development later, include a changelog and incremental commits in a new branch.
 
+## License
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for full details.
+
 ## Contact
 If you want help packaging or publishing to itch.io / GitHub Releases, I can assist.
 
